@@ -1,0 +1,48 @@
+			Assignment -1
+
+List of 30 Linux commands 
+
+
+
+1. cp	 	-  Copies files and directories
+2. pwd		-  Prints the current working directory
+3. cd   	-  Changes current directory
+4. cd..		-  Changes to the parent directory
+5. ls		-  Lists contents of the current directory
+6. ls -l 	- Lists the files and directories in the current working directory in long format
+7. ls -a 	- Lists all files and directories including the hidden ones
+8. ls -r 	- Lists files/directories in reverse
+9. mkdir 	- Creates a new directory 
+10. rmdir	- Removes an empty directory
+11. mv	 	- Moves or renames a file /directory 
+12. rm 		- Removes a file/directory 
+13. rm -i	- Prompts system confirmation before deleting
+14. rm -r	- Deletes a file/directory recursively
+15. rm -d	- Deletes empty folders
+
+16. touch 	- Creates an empty file/modify timestamp
+17. cat	        - Concatenates and prints file contents
+18. cat -n	- Displays the contents of a file along with line numbers
+19. tac	 	- Concatenates and prints file contents in reverse order
+20. less	- Shows contents in a scrollable manner
+21. head	- Displays the first ten lines of a file
+22. tail	- Displays the last ten lines of a file
+23. grep	- Searches for a specified pattern in one or more files
+24. nano	- Edits and creates files
+25. diff	- Compares two text files
+26. sort	- Sorts lines of a text file
+27. sort -r	- Sorts file reversely
+28. sort -u	- Removes duplicates and sorts unique values
+29. chmod	- Modifies a file or directory’s read, write, and execute permissions
+30. chown	- Changes the ownership of a file, directory, or symbolic link to a specified username.
+31. chgrp	- Changes the group ownership of a file or directory
+32. echo	- Displays a line of text or a variable value on the command line
+33. clear	- Clears the terminal window
+
+34. date	- Displays and sets system date and time
+35. cal or ncal	- Displays the calendar of the current month
+36. who		- Displays information about currently logged-in user
+37. whoami	- Displays the user name of the current user logged in
+38. uname	- Displays information about the current system and operating system
+39. hostname	- Displays or set the hostname of the current system
+40. zip		- Creates, views, and extracts files from a compressed archive file
